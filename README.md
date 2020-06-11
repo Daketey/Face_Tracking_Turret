@@ -9,7 +9,7 @@ Currently the libraries used are:
 
 (All libararies and packages were downloaded using NuGet)
 
-UPDATE:
+# UPDATE:
 
 1.Added eye detection feature.
 
