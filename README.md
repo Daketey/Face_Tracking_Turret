@@ -9,6 +9,9 @@ Currently the libraries used are:
 (All libararies and packages were downlaoded using NuGet)
 
 UPDATE:
+
 1.Added eye detection feature.
+
 2.Added code for arduino led blinking, which works by reciving serial input from the Face Detector.
+
 2.Added serial port input in the main application code for sending serial data to arudino.
