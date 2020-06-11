@@ -6,6 +6,7 @@ application into my embeddded system/Robotics based projects to utilize it in ma
 Currently the libraries used are:
 1. Aforge.Video (for taking video feed from my computer)
 2. EmguCV 
+
 (All libararies and packages were downlaoded using NuGet)
 
 UPDATE:
