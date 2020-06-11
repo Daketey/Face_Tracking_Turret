@@ -7,7 +7,7 @@ Currently the libraries used are:
 1. Aforge.Video (for taking video feed from my computer)
 2. EmguCV 
 
-(All libararies and packages were downlaoded using NuGet)
+(All libararies and packages were downloaded using NuGet)
 
 UPDATE:
 
