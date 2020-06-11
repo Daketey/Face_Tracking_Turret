@@ -6,3 +6,9 @@ application into my embeddded system/Robotics based projects to utilize it in ma
 Currently the libraries used are:
 1. Aforge.Video (for taking video feed from my computer)
 2. EmguCV 
+(All libararies and packages were downlaoded using NuGet)
+
+UPDATE:
+1.Added eye detection feature.
+2.Added code for arduino led blinking, which works by reciving serial input from the Face Detector.
+2.Added serial port input in the main application code for sending serial data to arudino.
