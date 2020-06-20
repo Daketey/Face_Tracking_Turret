@@ -7,3 +7,6 @@ detecting a face infront of the camera. The led circuit was made using an Arduin
 > [Aforge.Video](http://www.aforgenet.com/)\
 > [EmguCV](http://www.emgu.com/wiki/index.php/Main_Page) 
 
+<p align="center">
+<img width="388" src="https://user-images.githubusercontent.com/66672417/85195125-8d8c5900-b2ed-11ea-8075-63d86b731ca4.PNG">
+</p>
