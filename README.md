@@ -32,7 +32,7 @@ file and copy paste the code under [Face_Detection.Designer.cs](https://github.c
 ```
 #### Setting up the forms:
 
-After copying the designer file, this is what it should
+After copying the designer file, this is what it should look like
 <p align="center">
 <img width="700" src="https://user-images.githubusercontent.com/66672417/85195828-528d2400-b2f3-11ea-9790-d1f5a4c37c0f.jpg">
 </p>
