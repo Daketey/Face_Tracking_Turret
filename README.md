@@ -13,7 +13,21 @@ face whereever it goes in the region of video feed.
 > [Aforge.Video](http://www.aforgenet.com/)\
 > [EmguCV](http://www.emgu.com/wiki/index.php/Main_Page) 
 
-### Arduino Circuit
+
+### Guide to setting things up
+
+#### What components do you need?
+```
+1.Arduino uno
+2.PIR sensor
+3.2X servos
+4.Jumper cables
+5.Breadboard
+```
+#### Setting up the forms:
+
+
+#### Arduino Circuit
 <p align="center">
 <img width="388" src="https://user-images.githubusercontent.com/66672417/85195125-8d8c5900-b2ed-11ea-8075-63d86b731ca4.PNG">
 </p>
