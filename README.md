@@ -16,6 +16,10 @@ face whereever it goes in the region of video feed.
 
 ### Guide to setting things up
 
+#### Setting up the code:
+To start things up you ll have to make a windows forms application in Visual Studio under in .Net framework. Open the form's.Designer
+file and copy paste the code under Face_Detection.Designer.cs, then double click on your forms and upload the . Set up the arduino as shown in the circuit diagram below, then past the  in Arduino IDE, then upload to the board. Click start on your visual studio Application and have fun playing with the turret.
+
 #### What components do you need?
 ```
 1.Arduino uno
@@ -26,6 +30,10 @@ face whereever it goes in the region of video feed.
 ```
 #### Setting up the forms:
 
+After copying the designer file, this is what it should
+<p align="center">
+<img width="700" src="https://user-images.githubusercontent.com/66672417/85195828-528d2400-b2f3-11ea-9790-d1f5a4c37c0f.jpg">
+</p>
 
 #### Arduino Circuit
 <p align="center">
