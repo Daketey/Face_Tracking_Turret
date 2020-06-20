@@ -4,8 +4,8 @@
   <img width="800" src="https://user-images.githubusercontent.com/66672417/85195445-3471f480-b2f0-11ea-888e-d7faa74ac315.jpg">
 </p>
 
-An application made using Visual Studio 2019 to detect a human face and point the turret in the direction of the face, aditionally \
-I ve added a PIR sensor as a switch to turn on the application whenever it detects a movement. Then the turret points to the human \
+An application made using Visual Studio 2019 to detect a human face and point the turret in the direction of the face, aditionally 
+I ve added a PIR sensor as a switch to turn on the application whenever it detects a movement. Then the turret points to the human 
 face whereever it goes in the region of video feed.
 
 
